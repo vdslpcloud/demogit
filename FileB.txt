@@ -1,1 +1,2 @@
 This is file B
+dem change on file B
