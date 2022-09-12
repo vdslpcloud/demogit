@@ -1,2 +1,5 @@
 This is file B
 dem change on file B
+
+Another chnage 
+Sqauahc merge
